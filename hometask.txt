@@ -1,0 +1,3 @@
+Содержимое README:
+в master: Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+в Demo: Create release branch with human (master) in boots (boots branch) and hat (hat branch).
